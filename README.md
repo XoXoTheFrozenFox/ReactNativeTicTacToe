@@ -1,50 +1,21 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<h1 align="center">Tic Tac Toe mobile app📱</h1>
+<h2 align="center">Screenshots of forms📸</h2>
+<h3 align="center">Screenshot 1</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/228b461b-670e-477a-b43d-d1b0c4838712" alt="Image" />
+</div>
+<h3 align="center">Screenshot 2</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1c964642-4ac5-46b7-a1f1-a98b2e89b34e" alt="Image" />
+</div>
+<h3 align="center">Screenshot 3</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ab1ddab5-39d2-4699-9fb1-7a9032f51c1e" alt="Image" />
+</div>
+<h2 align="center">⚒️ Technologies used ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,github,npm,androidstudio" />   
+</div>
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
