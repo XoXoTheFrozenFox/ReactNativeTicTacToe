@@ -1,15 +1,18 @@
-import { Text, View } from "react-native";
+import React from 'react';
+import { SafeAreaView, StyleSheet } from 'react-native';
+import TicTacToe from './TicTacToe'; // Import your TicTacToe component
 
-export default function Index() {
+export default function TicTacToeScreen() { // Ensure this matches the file name
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <Text>Hello world</Text>
-    </View>
+    <SafeAreaView style={styles.container}>
+      <TicTacToe />
+    </SafeAreaView>
   );
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#eee',
+  },
+});

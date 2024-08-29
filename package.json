@@ -1,5 +1,5 @@
 {
-  "name": "reactnativefruitapp",
+  "name": "react-native-tic-tac-toe",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
