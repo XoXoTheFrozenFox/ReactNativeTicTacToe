@@ -13,6 +13,10 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ab1ddab5-39d2-4699-9fb1-7a9032f51c1e" alt="Image" />
 </div>
+<h3 align="center">Screenshot of emulator</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4d321609-7126-4f74-991d-5c8e3404f8db" alt="Image" />
+</div>
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
