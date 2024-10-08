@@ -20,6 +20,6 @@
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,github,npm,androidstudio" />   
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,github,npm,androidstudio,vscode" />   
 </div>
 
